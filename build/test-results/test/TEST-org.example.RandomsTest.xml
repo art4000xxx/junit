@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.RandomsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-03-06T05:50:39" hostname="ASUSARTEM" time="0.04">
+  <properties/>
+  <testcase name="testRandoms_iteratorIsInfinite()" classname="org.example.RandomsTest" time="0.023"/>
+  <testcase name="testRandoms_sequenceContainsIncreasingNumber()" classname="org.example.RandomsTest" time="0.004"/>
+  <testcase name="testRandoms_numbersInCorrectRange()" classname="org.example.RandomsTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
